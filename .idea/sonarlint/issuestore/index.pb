@@ -55,8 +55,6 @@ f
 6src/main/java/com/iup/tp/twitup/view/ProfilesView.java,8\4\84acd10e0d8c24445cf92bc5ee31a846a4f5ed28
 f
 6src/main/java/com/iup/tp/twitup/view/MyProfilView.java,a\5\a577f86d7c626b0f1d4f56dd29c283fed071dab4
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ~
 Nsrc/main/java/com/iup/tp/twitup/interfaces/navigation/INavigationObserver.java,3\4\342af05d9c2f8968f9a60775dafdfe42f1649afc
 g
