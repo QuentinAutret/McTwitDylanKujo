@@ -115,5 +115,3 @@ u
 Esrc/main/java/com/iup/tp/twitup/datamodel/IDatabaseUsersObserver.java,d\9\d94df5f570aa858cedff5fdb359ad95b7bf14d58
 l
 <src/main/java/com/iup/tp/twitup/component/TwitComponent.java,d\e\de64076743799aa05cc945cce4abcfcdc025621b
-;
-Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
