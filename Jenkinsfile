@@ -8,7 +8,7 @@ pipeline {
         }
         stage('sonar') {
             steps {
-                bat 'mvn verify sonar:sonar -Dlogin=admin -Dpassword=admin2'
+                bat 'mvn verify sonar:sonar -Dsonar.login=admin -Dsonar.password=admin2'
             }
         }
     }
