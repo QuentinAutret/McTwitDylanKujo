@@ -111,7 +111,7 @@ public class SignUpView extends ViewBase implements ISignedUpObserver {
 	private void openFileChooser() {
 		JFileChooser fileChooser = new JFileChooser();
 		fileChooser.setDialogTitle("PRend avatar");
-		FileNameExtensionFilter filter = new FileNameExtensionFilter("JPG & PNG Images", "jpg", "png");
+		FileNameExtensionFilter filter = new FileNameExtensionFilter("JPG, PNG & GIF Images", "jpg", "png", "gif");
 		fileChooser.setFileFilter(filter);
 		fileChooser.setFileSelectionMode(JFileChooser.FILES_ONLY);
 		int returnVal = fileChooser.showOpenDialog(null);
